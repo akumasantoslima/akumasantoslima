@@ -1,0 +1,5 @@
+- # sobre mim #
+- meu nome é akumasantoslima
+- meu email para contato é santos.lima.jessica@escola.pr.gov.br
+- eu estou interessada em em aprender a progamar novas linguagens 
+- eu estou aprendendo a progamar recentemente a linguagem de javaScript e Scratch
